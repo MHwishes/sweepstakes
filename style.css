@@ -1,0 +1,36 @@
+body {
+    padding-top: 100px;
+    font: 12px "\5B8B\4F53", sans-serif;
+    text-align: center;
+    /*background-color: rgba(89, 89, 89, 0.41);*/
+    background-image: url("./images/3.jpg");
+    background-size: cover;
+}
+
+.result_box #oknum {
+    margin-top: 175px;
+    width: 500px;
+    height: 200px;
+    background: #d6e08d;
+    -moz-border-radius: 150px;
+    -webkit-border-radius: 150px;
+    border-radius: 100%;
+    color: black;
+    font-size: 50pt;
+    text-align: center;
+    border: none;
+}
+
+.button_box {
+    margin: 50px 0 0 0;
+}
+
+.button_box .btn {
+    cursor: pointer;
+    padding: 0 30px;
+    margin: 0 10px;
+    color: #555;
+    font-family: "\5B8B\4F53", sans-serif;
+    font-size: 40px;
+    border-radius: 20%;
+}
